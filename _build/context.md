@@ -1,11 +1,11 @@
 ---
-title: 'Contexto'
+title: 'Visión General'
 prev_page:
-  url: /intro
-  title: 'Resumen'
-next_page:
-  url: /intro
+  url: /context
   title: 'Metodología'
+next_page:
+  url: https://github.com/jupyter/jupyter-book
+  title: 'GitHub repository'
 comment: "***PROGRAMMATICALLY GENERATED, DO NOT EDIT. SEE ORIGINAL FILES IN /content***"
 ---
 # Contexto 

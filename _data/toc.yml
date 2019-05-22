@@ -23,10 +23,17 @@
 
 # Top-level page
 
-- title: Context
-  url: /hedera
+- title: Contexto
+  url: /context
   not_numbered: true
 
+- title: Metodología
+  url: /context
+  not_numbered: true
+
+- title: Visión General
+  url: /context
+  not_numbered: true
 
 # External link
 - title: GitHub repository
