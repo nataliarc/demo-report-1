@@ -1,8 +1,5 @@
 # This file contains the order and numbering for all sections in the book.
 #
-# It is a sample TOC file to help you get started. Fill it out with entries
-# for your own content.
-#
 # Each entry has the following schema:
 #
 # - title: mytitle   # Title of chapter or section
@@ -18,26 +15,34 @@
 # - search: true  # Will provide a link to a search page
 # - divider: true  # Will insert a divider in the sidebar
 # - header: My Header  # Will insert a header with no link in the sidebar
-#
-# See the links below for an example.
 
-# Top-level page
 
-- title: Context
-  url: /hedera
+- title: Resumen
+  url: /intro
   not_numbered: true
 
-
-# External link
-- title: GitHub repository
-  url: https://github.com/jupyter/jupyter-book
-  external: true
+- title: Contexto
+  url: /context
   not_numbered: true
 
-# Adds a searchbar link
-- title: Search
+- title: Metodología
+  url: /intro
+  not_numbered: true
+
+- title: Visión General
+  url: /intro
+  not_numbered: true
+
+- title: Electricidad
+  url: /intro
+  not_numbered: true
+
+- title: Buscar
   search: true
 
-# Divider for meta-pages and content page
+
+
 - divider: true
+- header: La metodología Multi-Tier Framework (MTF)
+
 
